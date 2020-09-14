@@ -1,6 +1,8 @@
 ### Udacity
 This repository contains the project files develop for the purpose of completing Udacity's Deep Learning Nanodegree Program. 
 
+If you are having problems in opening the .ipynb files via GitHub, you can use [this](https://nbviewer.jupyter.org).
+
 # 1.Bike Sharing Project
 
 In this project I built a neural network from scratch and use it to predict daily bike rentals. It is a multi layer network contains an input and output layer as well as a single hidden layer.  
