@@ -13,4 +13,4 @@ In this project I developed a CNN for detecting and dog and human images and det
 
 # 2.MNIST Handwritten Digit Database - MLP Project
 
-In this project I implemented MLP model to MNIST Database to predict the the actual digit for each handwritten digit image. I used 2 hidden layers and a dropout to avoid overfitting. I used cross-entropy as a loss function and implement SGD as an optimizer.
+In this project I implemented MLP model to MNIST Database to predict the the actual digit for each handwritten digit image. I used 2 hidden layers and a dropout to avoid overfitting. I used cross-entropy as a loss function and implement SGD as an optimizer. Data used in this project uploaded as compressed, but in script it is used directly. 
