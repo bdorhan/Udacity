@@ -17,4 +17,4 @@ In this project I implemented MLP model to MNIST Database to predict the the act
 
 # 4.MNIST Handwritten Digit Database - GAN Project
 
-In this project I implemented GAN model to MNIST Database to predict the the actual digit for each handwritten digit image. The Discriminator Network contains 2 hidden layer with leaky ReLU activation and sigmoid function applied to the output. The Generator Network almost same as The Discriminator Network. Only difference here is that tanh fucntion applied to the output. For both generator and discriminator networks, we applied Adam Optimizers. 
+In this project I implemented GAN model to MNIST Database to teach the machine to generate brand new handwritten digits. The Discriminator Network contains 2 hidden layer with leaky ReLU activation and sigmoid function applied to the output. The Generator Network almost same as The Discriminator Network. Only difference here is that tanh fucntion applied to the output. For both generator and discriminator networks, we applied Adam Optimizers. 
