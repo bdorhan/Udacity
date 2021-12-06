@@ -18,3 +18,7 @@ In this project I implemented MLP model to MNIST Database to predict the the act
 # 4.MNIST Handwritten Digit Database - GAN Project
 
 In this project I implemented GAN model to MNIST Database to teach the machine to generate brand new handwritten digits. The Discriminator Network contains 2 hidden layer with leaky ReLU activation and sigmoid function applied to the output. The Generator Network almost same as The Discriminator Network. Only difference here is that tanh fucntion applied to the output. For both generator and discriminator networks, we applied Adam Optimizers. 
+
+# 5. Sentiment Analysis Project
+
+In this project, I make use of Neural Networks to run a sentiment analysis on movie reviews dataset. Goal of this project is to determine whether a review is positive or negative. This project has educational purposes, therefore there are a lot of unnecessary cells that might not needed if one just want to run this for personal use. 
